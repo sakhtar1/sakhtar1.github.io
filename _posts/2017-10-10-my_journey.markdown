@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey...."
-date:       2017-10-10 20:05:13 +0000
+date:       2017-10-10 16:05:14 -0400
 permalink:  my_journey
 ---
 
