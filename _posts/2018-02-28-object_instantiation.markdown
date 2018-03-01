@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Object Instantiation"
-date:       2018-03-01 04:28:29 +0000
+date:       2018-02-28 23:28:30 -0500
 permalink:  object_instantiation
 ---
 
@@ -9,13 +9,15 @@ permalink:  object_instantiation
 Instantiation is creating an instance of a class. Once an instance of a class is created we call that instance an object. Objects are instantiated by using the class name, then a dot, then the word new.  In general, this usually means allocating memory for the new object and calling the constructor. 
 
 For instance let's say we have the following:
+```
 
 **class Book
 end**
+```
 
 We can instantiate this class, and create an actual, real book instance (object) from it:
 
-**Book.new **
+*`*Book.new **`
 
 
 As one can see, whenever you call the method new on a class, as in Book.new, the class will create a new instance of itself. 
@@ -35,14 +37,16 @@ When we create a new instance of a class by the way of calling the method new on
 
 Let's take it a step further.
 
+```
 **class Books
   def initialize(title)
   end
 end**
+```
 
 Internally the method initialize will be called on the new object from Book.new. Therefore, the arguments that will be passed to new will be passed on to the initialize method. Initialize is an instance method that is used to assign instance variables.
 
-**Book.new("Charlotte's Web")**
+`**Book.new("Charlotte's Web")**`
 
 When we call new on the class Book, and pass the string "Charlotte's Web" , the method new will create a new instance of the class, and call initialize on it, passing "Charlotte's Web" string on it as well. "Charlotte's Web" string will therefore be assigned to the variable title. 
 
