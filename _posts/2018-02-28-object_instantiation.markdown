@@ -25,9 +25,9 @@ Let's break it down a bit further. What is .new?
 
 `.new` is a ruby class method that:
 
-(1) allocates space for the object 
-(2)Assigns instance variables their intial values
-(3)Returns the instance of that class.
+1. Allocates space for the object 
+2. Assigns instance variables their intial values
+3. Returns the instance of that class.
 
 Thus, `.new` is called the constructor. 
 
