@@ -8,7 +8,7 @@ permalink:  object_instantiation
 
 Instantiation is creating an instance of a class. Once an instance of a class is created we call that instance an object. Objects are instantiated by using the class name, then a dot, then the word new.  In general, this usually means allocating memory for the new object and calling the constructor. 
 
-For instance let's say we have the following:
+For instance, let's say we have the following:
 ```
 class Book
 end
