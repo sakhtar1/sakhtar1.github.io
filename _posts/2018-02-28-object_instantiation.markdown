@@ -39,15 +39,16 @@ Let's take it a step further.
 ```
 class Books
   def initialize(title)
+	 @title = title
   end
 end
 ```
 
-Internally the method initialize will be called on the new object from` Book.new`. Therefore, the arguments that will be passed to new will be passed on to the initialize method. Initialize is an instance method that is used to assign instance variables.
+Internally the method initialize will be called on the new object from `Book.new`. Therefore, the arguments that will be passed to new will be passed on to the initialize method. Initialize is an instance method that is used to assign instance variables.
 
-`Book.new("Charlotte's Web")`
+`title = Book.new("Charlotte's Web")`
 
-When we call new on the class Book, and pass the string "Charlotte's Web" , the method new will create a new instance of the class, and call initialize on it, passing "Charlotte's Web" string on it as well. "Charlotte's Web" string will therefore be assigned to the variable title. 
+When we call new on the class Book, and pass the string "Charlotte's Web" , the method new will create a new instance of the class, and call initialize on it, passing "Charlotte's Web" string on it as well. "Charlotte's Web" string will therefore be assigned to the instance variable title. 
 
 
 
