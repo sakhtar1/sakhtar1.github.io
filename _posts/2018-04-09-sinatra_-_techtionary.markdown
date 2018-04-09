@@ -6,7 +6,7 @@ permalink:  sinatra_-_techtionary
 ---
 
 
-Sinatra's final project was to build a CRUD (Create, Read, Update, Destroy) application that incorporates many of the lessons that we learned throughout the SQL/Rack/ActiveRecord/Sinatra section. My final project was Techtionary. Learning so much at once, sometimes all the tech jargons we come across can be a little overwhelming, therefore I decided to create a Sinatra app that allowed users to store all the tech jargons they feel is important to them. 
+Sinatra's final project is to build a CRUD (Create, Read, Update, Destroy) application that incorporates many of the lessons that we learned throughout the SQL/Rack/ActiveRecord/Sinatra section. My final project was Techtionary. Learning so much at once, sometimes all the tech jargons we come across can be a little overwhelming, therefore I decided to create a Sinatra app that allowed users to store all the tech jargons they feel is important to them. 
 
 When I was working on my CLI Gem Project, I remembered we had videos and walkthroughs that guided us, with sinatra you had to create the directories and files needed. I didn't mind this at all b/c it allowed me to recognize and understand all the gems I'm installing like 'bcrypt' for secure passwords. 
 
