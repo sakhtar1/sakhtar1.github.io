@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra - Techtionary"
-date:       2018-04-09 06:39:41 +0000
+date:       2018-04-09 02:39:42 -0400
 permalink:  sinatra_-_techtionary
 ---
 
@@ -12,8 +12,8 @@ When I was working on my CLI Gem Project, I remembered we had videos and walkthr
 
 One interesting issue I came across was creating a table, model, and controller called 'tech' and ActiveRecord not being able to recognize it. I had a difficult time with this issue as ActiveRecord kept changing my tables to 'teches'. I worked with a tech coach and realized that this was a rarity. Sometimes ActiveRecord isn't able to recognize your table and can change the name, therefore even though my forms were working, an error would arise if I tried to submit them. I got over this hurdle by changing the name of the table. Now it may sound like this was a tedious issue, but I did learn something new. By clicking on the word you want to change, twice until its highlighted, then pressing on 'command m' you're able to highlight this word, every instance it shows up on that specific script, and change it all together. 
 
-I also used bootstrap on my app, which helped make it look more alive. 
+I also used bootstrap on my app, which helped make it look alive. 
 
-This was definitley a  project that I thorougly enjoyed. I'm definitley excited for what rails holds.
+This was a  project that I thorougly enjoyed. I'm definitley excited for what rails holds.
 
 
