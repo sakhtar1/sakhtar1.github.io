@@ -39,7 +39,7 @@ Therefore, within the Bucket Index page, you can create a new country and it wil
 
 This  means that the JSON responses must be turned into JavaScript objects first before the updated data was rendered to the page. . And I’d have to add a method to the prototype, which was renderDiv(). This was added to my Bucket form on the Bucket List section
 
-I dealt with many issues throughout my project which was expected. Going from rails to javascript debugging was also different, it was interesting to use both console and terminal to work through my debugging issues. Having a one on one with my tech coach walking through my issues was very insightful, it allowed me to be more open to adding more post requests via ajax. I thoroughly enjoyed working on this project not only because of the level it took my code but also because I learned a lot working on it.
+I dealt with many issues throughout my project which was expected. Going from rails to javascript debugging was also different, it was interesting to use both console and terminal to work through my debugging issues. I thoroughly enjoyed working on this project not only because of the level it took my code but also because I learned a lot working on it.
 
 
 
