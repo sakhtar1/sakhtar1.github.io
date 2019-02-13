@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "React/ Rails API"
-date:       2019-02-12 14:42:15 +0000
+title:      "Mental Health"
+date:       2019-02-12 09:42:16 -0500
 permalink:  react_rails_api
 ---
 
